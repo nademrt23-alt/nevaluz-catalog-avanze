@@ -10,7 +10,7 @@ const products = [
   {
     name: 'Cabaña',
     number: 'Próximamente',
-    price: 'Próximamente',
+    price: 'S/ 8',
     image: 'assets/nevaluz-brand/cabana-detail-original.jpg',
     description: 'Un refugio de luz cálida que llegará en una próxima edición de NEVALUZ.',
     available: false

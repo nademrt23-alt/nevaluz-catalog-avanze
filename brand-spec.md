@@ -23,8 +23,8 @@ Frases cortas, sensoriales y honestas. Evitar claims no demostrables. Ejemplos: 
 
 ## Colección y disponibilidad
 - **Reno grande:** disponible y protagonista del catálogo actual.
-- **Cabaña:** visible como producto futuro; la imagen lleva la etiqueta “Próximamente”.
-- **Pack Pareja:** visible como producto futuro; la imagen lleva la etiqueta “Próximamente”.
+- **Cabaña mediana:** S/ 8; visible como producto futuro, con imagen completamente difuminada y etiqueta “Próximamente”.
+- **Pack Pareja:** precio pendiente de definición; visible como producto futuro, con imagen completamente difuminada y etiqueta “Próximamente”.
 - **Tamaño mediano:** “Próximamente”, mostrado como una expectativa futura sin simular disponibilidad.
 
 ## TikTok

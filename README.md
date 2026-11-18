@@ -4,11 +4,11 @@ Catálogo web de lámparas artesanales hechas a partir de frascos de vidrio recu
 
 ## Colección
 - **Reno grande** — S/ 12 · disponible ahora
-- **Cabaña** — Próximamente
+- **Cabaña mediana** — S/ 8 · Próximamente
 - **Pack Pareja** — Próximamente
 - **Reno mediano** — Próximamente
 
-Las fichas futuras muestran la etiqueta **“Próximamente” directamente sobre la imagen** y no simulan precio ni disponibilidad.
+Las fichas futuras muestran la etiqueta **“Próximamente” directamente sobre la imagen**. Las imágenes de Cabaña y Pack Pareja permanecen completamente difuminadas hasta su lanzamiento. Los precios oficiales del informe son S/ 8 para el tamaño mediano y S/ 12 para el tamaño grande.
 
 ## Activos
 Las imágenes de producto combinan la fotografía real de Reno, una adaptación editorial del frasco suministrado por el usuario y los visuales de Cabaña/Pareja reservados para próximas ediciones. La dirección mantiene iluminación cálida, sombras controladas y una jerarquía clara entre lo disponible y lo futuro.
