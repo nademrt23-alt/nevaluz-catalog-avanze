@@ -36,4 +36,4 @@ Estas imágenes fueron creadas para el catálogo con la lámpara Cabaña como re
 ## Actualización Reno + TikTok
 
 - `reno-real.jpg`: fotografía real proporcionada por el usuario, optimizada para la ficha Reno.
-- TikTok: `https://www.tiktok.com/@nevaluz16` funciona como extensión de la experiencia; allí se publican el video promocional, el encendido real, el proceso artesanal y nuevas ediciones.
+- TikTok: `https://www.tiktok.com/@nevaluz16` funciona como extensión de la experiencia; allí se anuncian futuros modelos, nuevas ediciones y el próximo video promocional.

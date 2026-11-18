@@ -25,4 +25,4 @@ La versión actual integra cuatro imágenes originales de producto generadas par
 
 ## TikTok
 
-El catálogo dirige a [@nevaluz16](https://www.tiktok.com/@nevaluz16), donde se publicará el video promocional, el encendido real de las lámparas y el detrás de cámaras del proceso artesanal.
+El catálogo dirige a [@nevaluz16](https://www.tiktok.com/@nevaluz16), donde se anunciarán futuros modelos, nuevas ediciones y el próximo video promocional de NEVALUZ.
