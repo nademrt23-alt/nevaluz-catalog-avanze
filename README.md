@@ -18,3 +18,7 @@ python3 -m http.server 4173
 Abrir `http://localhost:4173`.
 
 Contacto: +51 946 374 985
+
+## Dirección visual actualizada
+
+La versión actual integra cuatro imágenes originales de producto generadas para el catálogo: hero de Cabaña, escena nocturna, composición de colección y detalle macro de las capas 3D. La imagen anterior de Cabaña con textos superpuestos fue reemplazada en la ficha principal.

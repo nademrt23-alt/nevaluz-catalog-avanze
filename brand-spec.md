@@ -23,3 +23,12 @@ Los archivos en `assets/nevaluz-brand/` son recortes de fotogramas del video adj
 
 ## Voz
 Frases cortas, sensoriales y honestas. Evitar claims no demostrables. Ejemplos: “La luz también puede contar una historia.” / “Regala algo que se queda encendido.”
+
+## Imágenes originales nuevas
+
+- `cabana-hero-original.jpg`: hero editorial de Cabaña sobre pedestal de nogal.
+- `cabana-night-original.jpg`: escena contextual de Cabaña junto a una ventana.
+- `collection-original.jpg`: composición de Cabaña y Reno en mesa de madera.
+- `cabana-detail-original.jpg`: macro de las capas 3D, textura del vidrio y luz cálida.
+
+Estas imágenes fueron creadas para el catálogo con la lámpara Cabaña como referencia visual y optimizadas a JPEG para uso web.
