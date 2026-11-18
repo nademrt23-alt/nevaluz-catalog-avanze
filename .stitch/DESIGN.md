@@ -100,7 +100,7 @@ Primary actions are brass-filled rectangles with dark text, wide letter spacing 
 
 ### Cards & Domain-Specific Containers
 
-Product cards are image-led, borderless and quiet. Images use controlled saturation, contrast and edge shadows; edition badges are dark translucent chips with warm gold text. The Reno card is intentionally the only visible product card, reducing choice overload and making the desired product the obvious path.
+Product cards are image-led, borderless and quiet. Images use controlled saturation, contrast and edge shadows; edition badges are dark translucent chips with warm gold text. The Reno card is the only currently available product card; Cabaña and the Pareja pack remain visible as future cards with a clear “Próximamente” overlay, reducing ambiguity without hiding the roadmap.
 
 The size selector is a two-option editorial row. **Tamaño grande** is active and clearly framed; **Tamaño mediano — Próximamente** is present as a future path with lower saturation and a factual status label.
 
@@ -152,4 +152,4 @@ Anchor surfaces in #0e0d0b and #171410. Use #eee7d8 for paper and key text. Rese
 
 ### Incremental Iteration
 
-Keep Reno as the only current product focal point. Add medium-size inventory only when it is genuinely available; retain the muted future state until then. When adjusting images, preserve the dark falloff and warm focal glow, and avoid adding cabin imagery or bright generic lifestyle photography.
+Keep Reno as the available product focal point. Cabaña and the Pareja pack may remain visible as future releases only when their image carries the exact “Próximamente” state. Add medium-size inventory only when it is genuinely available. Preserve the dark falloff and warm focal glow.

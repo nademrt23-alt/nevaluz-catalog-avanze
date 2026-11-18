@@ -1,14 +1,17 @@
 # NEVALUZ — Catálogo digital editorial
 
-Catálogo web de lámparas artesanales hechas a partir de frascos de vidrio recuperado. La interfaz está diseñada como una experiencia editorial de escritorio y móvil con una ficha interactiva de Reno y pedidos directos por WhatsApp.
+Catálogo web de lámparas artesanales hechas a partir de frascos de vidrio recuperado. La interfaz está diseñada como una experiencia editorial de escritorio y móvil con Reno disponible, Cabaña y el pack Pareja como próximas ediciones, además de pedidos directos por WhatsApp.
 
-## Producto
-- **Reno grande** — S/ 12
+## Colección
+- **Reno grande** — S/ 12 · disponible ahora
+- **Cabaña** — Próximamente
+- **Pack Pareja** — Próximamente
 - **Reno mediano** — Próximamente
-- Edición numerada y personalizable.
+
+Las fichas futuras muestran la etiqueta **“Próximamente” directamente sobre la imagen** y no simulan precio ni disponibilidad.
 
 ## Activos
-Las imágenes de producto combinan la fotografía real de Reno proporcionada para el catálogo con una adaptación editorial del frasco suministrado por el usuario. El sitio conserva una iluminación cálida, sombras controladas y el modelo Reno como único foco visual vigente.
+Las imágenes de producto combinan la fotografía real de Reno, una adaptación editorial del frasco suministrado por el usuario y los visuales de Cabaña/Pareja reservados para próximas ediciones. La dirección mantiene iluminación cálida, sombras controladas y una jerarquía clara entre lo disponible y lo futuro.
 
 ## Desarrollo local
 ```bash
@@ -24,4 +27,4 @@ Carbón profundo, marfil papel, latón y oro cálido. Cormorant Garamond lleva l
 
 ## TikTok
 
-El catálogo dirige a [@nevaluz16](https://www.tiktok.com/@nevaluz16), donde se anunciarán futuros tamaños medianos, nuevas ediciones y el próximo video promocional de NEVALUZ.
+El catálogo dirige a [@nevaluz16](https://www.tiktok.com/@nevaluz16), donde se anunciarán tamaños medianos, nuevas ediciones y el próximo video promocional de NEVALUZ.

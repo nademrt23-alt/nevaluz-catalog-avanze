@@ -4,7 +4,24 @@ const products = [
     number: 'Nº 24 / 80',
     price: 'S/ 12',
     image: 'assets/nevaluz-brand/reno-hero-adapted.png',
-    description: 'Una escena de bosque encendida para regalar con intención. Incluye tarjeta personalizable, yute y estrella de madera.'
+    description: 'Una escena de bosque encendida para regalar con intención. Incluye tarjeta personalizable, yute y estrella de madera.',
+    available: true
+  },
+  {
+    name: 'Cabaña',
+    number: 'Próximamente',
+    price: 'Próximamente',
+    image: 'assets/nevaluz-brand/cabana-detail-original.jpg',
+    description: 'Un refugio de luz cálida que llegará en una próxima edición de NEVALUZ.',
+    available: false
+  },
+  {
+    name: 'Pack Pareja',
+    number: 'Próximamente',
+    price: 'Próximamente',
+    image: 'assets/nevaluz-brand/collection-original.jpg',
+    description: 'Una composición para compartir: dos paisajes, una misma luz y una edición por revelar.',
+    available: false
   }
 ];
 
@@ -24,7 +41,8 @@ function openProduct(index) {
   modalDescription.textContent = product.description;
   modalNumber.textContent = product.number;
   modalPrice.textContent = product.price;
-  modalCta.href = `https://wa.me/51946374985?text=${encodeURIComponent(`Hola NEVALUZ, quiero reservar ${product.name} ${product.number}`)}`;
+  modalCta.textContent = product.available ? 'Quiero esta pieza ↗' : 'Avisarme cuando llegue ↗';
+  modalCta.href = `https://wa.me/51946374985?text=${encodeURIComponent(product.available ? `Hola NEVALUZ, quiero reservar ${product.name} ${product.number}` : `Hola NEVALUZ, quiero que me avisen cuando llegue ${product.name}`)}`;
   modal.showModal();
 }
 
