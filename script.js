@@ -1,6 +1,6 @@
 const products = [
   {name:'Cabaña', number:'Nº 10 / 80', price:'S/ 8', image:'assets/nevaluz-brand/cabana-detail-original.jpg', description:'Una escena de refugio entre pinos, tallada a mano en capas 3D sobre vidrio recuperado. Edición numerada y lista para regalar.'},
-  {name:'Reno', number:'Nº 24 / 80', price:'S/ 12', image:'assets/nevaluz-brand/reno-24.jpg', description:'La pieza que convierte un regalo secreto en un recuerdo. Incluye tarjeta personalizable, yute y estrella de madera.'},
+  {name:'Reno', number:'Nº 24 / 80', price:'S/ 12', image:'assets/nevaluz-brand/reno-real.jpg', description:'La pieza que convierte un regalo secreto en un recuerdo. Incluye tarjeta personalizable, yute y estrella de madera.'},
   {name:'La pareja', number:'Cabaña + Reno', price:'S/ 20', image:'assets/nevaluz-brand/collection-original.jpg', description:'Dos modelos para una escena completa: una cabaña cálida y un reno entre pinos. Un dúo de edición limitada.'}
 ];
 

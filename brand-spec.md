@@ -32,3 +32,8 @@ Frases cortas, sensoriales y honestas. Evitar claims no demostrables. Ejemplos: 
 - `cabana-detail-original.jpg`: macro de las capas 3D, textura del vidrio y luz cálida.
 
 Estas imágenes fueron creadas para el catálogo con la lámpara Cabaña como referencia visual y optimizadas a JPEG para uso web.
+
+## Actualización Reno + TikTok
+
+- `reno-real.jpg`: fotografía real proporcionada por el usuario, optimizada para la ficha Reno.
+- TikTok: `https://www.tiktok.com/@nevaluz16` funciona como extensión de la experiencia; allí se publican el video promocional, el encendido real, el proceso artesanal y nuevas ediciones.

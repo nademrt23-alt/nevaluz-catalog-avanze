@@ -22,3 +22,7 @@ Contacto: +51 946 374 985
 ## Dirección visual actualizada
 
 La versión actual integra cuatro imágenes originales de producto generadas para el catálogo: hero de Cabaña, escena nocturna, composición de colección y detalle macro de las capas 3D. La imagen anterior de Cabaña con textos superpuestos fue reemplazada en la ficha principal.
+
+## TikTok
+
+El catálogo dirige a [@nevaluz16](https://www.tiktok.com/@nevaluz16), donde se publicará el video promocional, el encendido real de las lámparas y el detrás de cámaras del proceso artesanal.
